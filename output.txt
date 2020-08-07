@@ -1,0 +1,212 @@
+
+-----------------------------------------------------------------
+1. No. of overlapped urlh: 129673
+
+2. Price Difference of urlh
+
+Price Difference for URLH: ddd9ac58bd424d779d17484b3d39a3f44fdbbf7f
+0.3000000000000007
+Price Difference for URLH: e927e0cd1c88616709b281d1c7cd75808f063205
+0.5
+Price Difference for URLH: b40611181632cd682ce81782884b2aca3d32c3e6
+0.5600000000000005
+Price Difference for URLH: dc9ea4c7278efc430e2cdf8b333a368f2c447c6e
+0.5999999999999996
+Price Difference for URLH: e68aaf524da6d99614b2098122ab7bf3c12ca610
+1.0
+Price Difference for URLH: 0fbc45c770ed89d7ad60fc112ab1e0073c0528e9
+0.3000000000000007
+Price Difference for URLH: 0faf240643b51ab5a26e9ef65cc9f09440d9d7fc
+0.5999999999999996
+Price Difference for URLH: 7093c7f528a0feea77270cd9e41434df4ac7b140
+0.20000000000000018
+Price Difference for URLH: aee7a4f249822df4cca31505085289bfed4aa9a0
+0.20000000000000018
+Price Difference for URLH: bd0e06525806961ed598c5d2eba8cbd8e1acde28
+0.8000000000000007
+Price Difference for URLH: e0044703e1158a46c8e9d75cf6a39a42ada9f925
+0.3000000000000007
+Price Difference for URLH: ef69d606b6b6af99c5a5c7099e747a769cbbb532
+0.2999999999999998
+Price Difference for URLH: 9a2a99d20b6a2aa78cc2abdf457054d0db1d6263
+0.2999999999999998
+Price Difference for URLH: d8a7a5e606f2c45f152e7f3cef256e547e57d656
+0.20000000000000018
+Price Difference for URLH: b712b0a1d5a4466681b1ae3727e4a39ab29ac73b
+0.2599999999999998
+Price Difference for URLH: ea848ae4a6cebcc728e48c3fbd937eaa1ca9c877
+0.20000000000000018
+Price Difference for URLH: 14b884ca9fb53203de810ff5182b6879da77fb6f
+0.20000000000000018
+
+------------------------------------------------------------------------------------------------------------------------------------------
+3. No of unique categories in both files:50
+
+4 List of catergories which are not overlapping
+[]
+
+5. Repeated Categories and subcategories count: Today
+
+Alcohol > Spirits: 5
+Ale Beer > Wheat Ale: 101
+Allergy & Cold Essentials > Essentials: 34
+American Whiskey > Other: 87
+Babies > Baby Accessories: 253
+Babies > Baby First Aid & Vitamins: 197
+Baby & Child > Baby First Aid & Vitamins: 47
+Bakery > Bakery Desserts: 1048
+Beverages > Cocoa & Drink Mixes: 495
+Bourbon > Other: 101
+Brandy & Cognac > Other: 2
+Breakfast > Breakfast Bars & Pastries: 393
+Breakfast > Granola: 346
+Bulk > Bulk Containers: 5
+Bulk > Bulk Granola & Cereals: 30
+Bulk > Bulk Spices & Seasoning: 5
+Bulk > Bulk Trail Mix & Snack Mix: 61
+Canned Goods > Canned & Jarred Vegetables: 950
+Canned Goods > Soup, Broth & Bouillon: 1594
+Champagne & Sparkling Wine > Sparkling Wine: 165
+Christmas > Christmas: 5392
+Cider > Other Fruit Cider: 81
+Coolers & Malt Beverages > Flavored Malt Beverages: 60
+Dairy & Eggs > Butter: 289
+Dairy & Eggs > Eggs: 179
+Dairy & Eggs > Refrigerated Pudding & Desserts: 186
+Dairy & Eggs > Tofu & Meat Alternatives: 72
+Deli > Fresh Dips & Tapenades: 416
+Deli > Tofu & Meat Alternatives: 103
+Dessert & Fortified Wine > Madeira: 2
+Dry Goods & Pasta > Baking Supplies: 1
+Dry Goods & Pasta > Grains, Rice & Dried Goods: 609
+Food > Oils & Vinegars: 2
+Frozen > Frozen Dessert: 299
+Frozen > Frozen Juice: 162
+Frozen > Ice Cream & Ice: 2507
+Fruit Wine > Sangria: 28
+Gift Baskets & Sets > Gift Sets: 5
+Glassware & Accessories > Wine Storage & Transport: 5
+Grocery > Sugar & Sugar Substitutes: 1
+Holiday Favorites > Candles & Kitchenwares: 10
+Household > Books & Magazines: 1
+Household > Garden: 57
+Household > More Household: 3950
+Household > Trash Bags & Liners: 175
+International > Indian Foods: 148
+International > Kosher Foods: 179
+International > More International Foods: 21
+Lager Beer > Japanese Rice Lager: 5
+Liqueurs/Cordials/Schnapps > Coconut: 4
+Meat & Seafood > Hot Dogs, Bacon & Sausage: 910
+Meat & Seafood > Packaged Seafood: 219
+Mixers, Water & Soda > Sports Drinks: 1
+Pantry > Baking Supplies & Decor: 749
+Pantry > Doughs, Gelatins & Bake Mixes: 831
+Personal Care > Adult Care: 67
+Personal Care > Aromatherapy: 34
+Personal Care > Clothing: 34
+Personal Care > Family Planning: 259
+Personal Care > Medical Supplies/Aid: 46
+Personal Care > Muscles, Joints & Pain Relief: 991
+Personal Care > Oils & Tinctures: 52
+Personal Care > Protein & Meal Replacements: 728
+Pets > Dog Food & Care: 1540
+Pets > Small Animal Care: 153
+Produce > Fresh Herbs: 145
+Produce > Tofu & Meat Alternatives: 2
+Ready to Drink > Manhattans & Bourbon Drinks: 1
+Red Wine > Other Red Wines: 78
+Rum > Other: 7
+Sake & Plum Wine > Sake: 42
+Scotch > Single Malt: 103
+Seasonal/Special Release Beer > Special Release: 80
+Snacks > Fruit & Vegetable Snacks: 464
+Snacks > Ice Cream Toppings: 191
+Specialty Style Beer > Chili Beer: 2
+Tequila > Other: 2
+Variety Packs > Variety Packs: 24
+Vodka > Variety Packs: 1
+White Wine > Pinot Blanc: 4
+
+5. Repeated Categories and subcategories count: Yesterday
+
+Alcohol > Spirits: 5
+Ale Beer > Wheat Ale: 97
+Allergy & Cold Essentials > Essentials: 31
+American Whiskey > Other: 86
+Babies > Baby Accessories: 252
+Babies > Baby First Aid & Vitamins: 197
+Baby & Child > Baby First Aid & Vitamins: 47
+Bakery > Bakery Desserts: 1049
+Beverages > Cocoa & Drink Mixes: 495
+Bourbon > Other: 98
+Brandy & Cognac > Other: 2
+Breakfast > Breakfast Bars & Pastries: 390
+Breakfast > Granola: 346
+Bulk > Bulk Containers: 5
+Bulk > Bulk Granola & Cereals: 29
+Bulk > Bulk Spices & Seasoning: 5
+Bulk > Bulk Trail Mix & Snack Mix: 61
+Canned Goods > Canned & Jarred Vegetables: 947
+Canned Goods > Soup, Broth & Bouillon: 1591
+Champagne & Sparkling Wine > Sparkling Wine: 166
+Christmas > Christmas: 5396
+Cider > Other Fruit Cider: 79
+Coolers & Malt Beverages > Flavored Malt Beverages: 58
+Dairy & Eggs > Butter: 289
+Dairy & Eggs > Eggs: 179
+Dairy & Eggs > Refrigerated Pudding & Desserts: 187
+Dairy & Eggs > Tofu & Meat Alternatives: 72
+Deli > Fresh Dips & Tapenades: 419
+Deli > Tofu & Meat Alternatives: 103
+Dessert & Fortified Wine > Madeira: 2
+Dry Goods & Pasta > Baking Supplies: 1
+Dry Goods & Pasta > Grains, Rice & Dried Goods: 606
+Food > Oils & Vinegars: 2
+Frozen > Frozen Dessert: 296
+Frozen > Frozen Juice: 162
+Frozen > Ice Cream & Ice: 2508
+Fruit Wine > Sangria: 26
+Gift Baskets & Sets > Gift Sets: 5
+Glassware & Accessories > Wine Storage & Transport: 5
+Grocery > Sugar & Sugar Substitutes: 1
+Holiday Favorites > Candles & Kitchenwares: 9
+Household > Books & Magazines: 1
+Household > Garden: 59
+Household > More Household: 3869
+Household > Trash Bags & Liners: 173
+International > Indian Foods: 149
+International > Kosher Foods: 178
+International > More International Foods: 22
+Lager Beer > Japanese Rice Lager: 4
+Liqueurs/Cordials/Schnapps > Coconut: 4
+Meat & Seafood > Hot Dogs, Bacon & Sausage: 922
+Meat & Seafood > Packaged Seafood: 215
+Mixers, Water & Soda > Sports Drinks: 1
+Pantry > Baking Supplies & Decor: 744
+Pantry > Doughs, Gelatins & Bake Mixes: 833
+Personal Care > Adult Care: 67
+Personal Care > Aromatherapy: 31
+Personal Care > Clothing: 34
+Personal Care > Family Planning: 258
+Personal Care > Medical Supplies/Aid: 40
+Personal Care > Muscles, Joints & Pain Relief: 977
+Personal Care > Oils & Tinctures: 52
+Personal Care > Protein & Meal Replacements: 722
+Pets > Dog Food & Care: 1545
+Pets > Small Animal Care: 150
+Produce > Fresh Herbs: 141
+Produce > Tofu & Meat Alternatives: 2
+Ready to Drink > Manhattans & Bourbon Drinks: 1
+Red Wine > Other Red Wines: 77
+Rum > Other: 7
+Sake & Plum Wine > Sake: 39
+Scotch > Single Malt: 101
+Seasonal/Special Release Beer > Special Release: 79
+Snacks > Fruit & Vegetable Snacks: 464
+Snacks > Ice Cream Toppings: 190
+Specialty Style Beer > Chili Beer: 2
+Tequila > Other: 2
+Variety Packs > Variety Packs: 22
+Vodka > Variety Packs: 1
+White Wine > Pinot Blanc: 4
